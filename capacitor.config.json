@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Mi-ionic-master",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
